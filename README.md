@@ -12,3 +12,5 @@ TDD 스터디 2기에서 Python 개발을 담당하고 있습니다.
 ├── Practice       # 스터디에서 지정한 과제에 적용
 └── README.md
 ```
+
+## 3. OOO
